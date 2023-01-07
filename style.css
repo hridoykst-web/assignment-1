@@ -139,3 +139,49 @@ header{
     margin-top: 14px;
  }
  /* footer */
+ .footer-section{
+    display: flex;
+    background-color: #151414;
+    color: #FFFFFF;
+    margin-top: 100px;
+    padding-left: 100px;
+    padding-right: 200px;
+    padding-top: 50px;
+ }
+ .footer-header{
+    font-weight: 700;
+    font-size: 45px;
+ }
+ .footer-description{
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 24px;
+    max-width: 50%;
+ }
+ .email{
+    width: 184px;
+    height: 26px;
+ }
+ .footer-icon{
+    margin-top: 24px;
+ }
+ .subscription{
+    width: 123px;
+    height: 29px;
+    margin-bottom: 26px;
+ }
+ .from{
+    width: 325px;
+    height: 64px;
+    font-size: 18px;
+ }
+ .btn-3{
+    Width: 100px;
+    Height:40px;
+    border-radius: 5px;
+    background: #457ecF;
+    color: #f9f9fa;
+    font-weight: 600;
+    font-size: 15px;
+    border: 0;
+ }
