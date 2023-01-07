@@ -168,7 +168,6 @@ header{
  .subscription{
     width: 123px;
     height: 29px;
-    margin-bottom: 26px;
  }
  .from{
     width: 325px;
@@ -176,12 +175,12 @@ header{
     font-size: 18px;
  }
  .btn-3{
-    Width: 100px;
-    Height:40px;
+    Width: px;
+    Height:8px;
     border-radius: 5px;
     background: #457ecF;
     color: #f9f9fa;
     font-weight: 600;
-    font-size: 15px;
+    font-size: 20px;
     border: 0;
  }
